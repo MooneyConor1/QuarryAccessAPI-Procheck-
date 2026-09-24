@@ -1,0 +1,11 @@
+site_id,site_name,required_accreditation_code,required_accreditation_name
+SITE-01,Northfield Quarry,ACC-007,Health and Safety Awareness
+SITE-02,Blackrock Aggregates,ACC-007,Health and Safety Awareness
+SITE-02,Blackrock Aggregates,ACC-006,Vehicle Access Permit
+SITE-03,Deepcut Quarry,ACC-007,Health and Safety Awareness
+SITE-03,Deepcut Quarry,ACC-002,Heavy Plant Operator License
+SITE-03,Deepcut Quarry,ACC-003,Confined Space Entry Permit
+SITE-04,Riverside Sand Pit,ACC-007,Health and Safety Awareness
+SITE-04,Riverside Sand Pit,ACC-004,First Aid Certificate
+SITE-05,Ashmoor Explosives Depot,ACC-007,Health and Safety Awareness
+SITE-05,Ashmoor Explosives Depot,ACC-005,Explosives Handling License
